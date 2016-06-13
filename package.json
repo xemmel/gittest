@@ -1,4 +1,7 @@
 {
-    "name" : "mypackage",
-    "version" : "0.0.1"
+  "name": "mypackage",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
 }
